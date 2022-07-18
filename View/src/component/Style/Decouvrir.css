@@ -1,0 +1,13 @@
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+.divMain{
+    margin-left: 20.5%;
+    padding-top: 20px;
+    /* width: 75%;
+    text-align: center; */
+}
+
+audio::-webkit-media-controls-play-button{
+    background-color:green;}

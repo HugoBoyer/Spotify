@@ -1,0 +1,45 @@
+.Header{
+    background-color:rgb(22, 22, 22);
+    border-right: 2px solid #4c0bd1;
+    position: fixed;
+    width: 20%;
+    height: 100%;
+}
+.Header img{
+    object-fit: cover;
+    width: 100%;
+    margin-top: -5vh;
+}
+#Search{
+    padding-top: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -5vh;
+    width: 80%;
+    border: 1px solid #4c0bd1;
+    border-radius: 50px;
+}
+.Header input{
+    background-color:rgb(22, 22, 22);
+    color: white;
+    width: 70%;
+    border: none;
+    outline: none;
+}
+#icon{
+    margin-right: 10px;
+    color: #4c0bd1;
+    font-size: 25zpx;
+}
+#section{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+}
+#section h4{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #4c0bd1;
+}
